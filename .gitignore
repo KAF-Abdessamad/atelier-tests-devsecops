@@ -2,3 +2,18 @@ node_modules/
 coverage/
 playwright-report/
 test-results/
+# SonarQube
+.scannerwork/
+
+# Coverage
+coverage/
+
+# Environment variables
+.env
+.env.*
+
+# Logs
+*.log
+
+# Dependencies
+node_modules/
